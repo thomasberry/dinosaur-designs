@@ -11,31 +11,33 @@ img {
 h1, h2 {
   color: #5d8432;
   text-transform: uppercase;
-  font-family: 'Patua One', cursive;
+  font-family:  "Patua One", cursive;
 }
 
 figcaption {
-  font-size: .8rem;
-  font-style:italic;
+  font-size:  .8rem;
+  font-style: italic;
   text-align: center;
 }
+
 .figclass {
-  font-size: 1rem;
+  font-size:  1rem;
 }
 
 nav {
-  font-weight: bold;
+  font-weight:  bold;
   font-size: 1.125rem;
 }
 
 a {
-  text-decoration:none;
+  text-decoration:  none;
   color: #793284;
-  font-family: 'Patua One', cursive;
+  font-family: "Patua One", cursive;
+
 }
 a:hover {
   color: #b42885;
-  text-decoration:underline;
+  text-decoration:  underline;
 }
 
 ol {
