@@ -11,6 +11,7 @@ img {
 h1, h2 {
   color: #5d8432;
   text-transform: uppercase;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 
 figcaption {
@@ -22,10 +23,12 @@ figcaption {
 nav {
   font-weight: bold;
   font-size: 1.125rem;
-  color: red;
 }
+
 a {
   text-decoration:none;
+  color: #793284;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 a:hover {
   color: #b42885;
