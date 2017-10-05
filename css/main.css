@@ -19,6 +19,9 @@ figcaption {
   font-style:italic;
   text-align: center;
 }
+.figclass {
+  font-size: 1.5rem;
+}
 
 nav {
   font-weight: bold;
