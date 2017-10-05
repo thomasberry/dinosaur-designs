@@ -6,3 +6,12 @@ html {
 img {
   width: 100%;
 }
+h1, h2 {
+  color: #5d8432;
+  text-transform: uppercase;
+}
+figcaption {
+  font-size: 1rem;
+  font-style:italic;
+  text-align: center;
+}
